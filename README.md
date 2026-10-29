@@ -90,15 +90,6 @@ You can also browse my repositories on
 
 -   **GitHub:**
     [github.com/aditya-techlab](https://github.com/aditya-techlab)
--   **Email / LinkedIn:** Add your preferred professional contact
-    details here when ready.
+-   **Email / LinkedIn:** mail.adityavrm@gmail.com
 
 ------------------------------------------------------------------------
-
-```{=html}
-<p align="center">
-```
-`<i>`{=html}Build • Automate • Secure`</i>`{=html}
-```{=html}
-</p>
-```
